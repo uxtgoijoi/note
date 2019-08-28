@@ -13,3 +13,7 @@ sudo git clone https://github.com/adobe-fonts/source-code-pro.git /usr/share/fon
 sudo fc-cache -f -v
 
 在电脑上安装好Source Code Pro后，设置vscode的Editor：Font Family为'Source Code Pro'即可
+
+***
+
+___
