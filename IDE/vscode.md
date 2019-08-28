@@ -14,3 +14,6 @@ sudo fc-cache -f -v
 
 在电脑上安装好Source Code Pro后，设置vscode的Editor：Font Family为'Source Code Pro'即可
 
+***
+
+关闭自动更新，找到update：mode，改为none
